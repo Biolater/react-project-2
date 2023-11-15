@@ -85,7 +85,7 @@ textarea{
     background-color: black;
     color: white;
     border-radius: 5px;
-    align-self: end;
+    align-self: flex-end;
     cursor: pointer;
     
 }
